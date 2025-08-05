@@ -1,7 +1,7 @@
-#Advanced Portfolio Optimization
+# Advanced Portfolio Optimization
 This project implements an advanced portfolio optimization strategy for a portfolio of six assets. The goal is to maximize expected returns while minimizing risk and accounting for transaction costs when adjusting from a prior allocation.
 
-#Features
+# Features
 ✅ Numerical optimization to determine the ideal asset allocation.
 
 ✅ Constraints:
@@ -22,7 +22,7 @@ Optimized returns based on the computed allocation.
 
 Final portfolio performance breakdown.
 
-How It Works
+# How It Works
 Define asset returns and risks: Model the expected returns and covariances for six different assets.
 
 Set initial allocation: Include an initial allocation vector to account for transaction costs.
@@ -37,12 +37,12 @@ Accounts for the cost of changing allocations.
 
 Visualize results: Plot both the theoretical and optimized returns, along with a clear view of the final allocation and performance.
 
-Output
+# Output
 📊 Asset Allocation Bar Charts: Before and after optimization.
 
 📈 Portfolio Performance Summary: Expected return, risk, and net return after transaction costs.
 
-Use Cases
+# Use Cases
 Algorithmic trading strategies
 
 Robo-advisory platforms
